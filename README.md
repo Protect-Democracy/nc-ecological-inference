@@ -44,6 +44,7 @@ That's critical for estimating the fraction of "roll-off" and "reverse roll-off"
 The main problem that this code solves is to fill in the values of a 3x3 matrix that looks like:
 
 |          | Trump      | Harris | No Vote   |
+|----------|------------|--------|-----------|
 | Robinson |            |        |           |
 | Stein    |            |        |           |
 | No Vote  |            |        |           |
