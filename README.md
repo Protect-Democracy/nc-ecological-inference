@@ -1,6 +1,6 @@
 # nc-ecological-inference
 
-This repository contains the code and data to reproduce the ecological inference results presented in "".
+This repository contains the code and data to reproduce the ecological inference results presented in [*No, “Bullet Ballots” are Not Why Trump Won*](https://protdem.org/rolloffresponse).
 
 ## Instructions
 
